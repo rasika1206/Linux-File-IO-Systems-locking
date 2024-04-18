@@ -18,8 +18,8 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-DEVELOPED BY:N.NAVYA SREE
-REG.NO:212223040138
+DEVELOPED BY: rasika M
+REG.NO:212222230117
 
 ## 1.To Write a C program that illustrates files copying 
 ```
